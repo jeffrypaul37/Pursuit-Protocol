@@ -1,5 +1,5 @@
 # Pursuit-Protocol
-A 3D endless runner game created in Unity.
+A 3D endless runner game developed in Unity, offering continuous and immersive gameplay.
 
 ![ss1](https://github.com/jeffrypaul37/Pursuit-Protocol/assets/61287560/6fe1494b-fea3-4e2f-bbc8-5e5d80da5b2e)
 ![ss2](https://github.com/jeffrypaul37/Pursuit-Protocol/assets/61287560/a451d250-e01d-4df9-aabb-00d8a9bf58ae)
